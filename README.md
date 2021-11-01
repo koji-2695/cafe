@@ -19,16 +19,8 @@ KUJIRA Cafe
  
 ## demo
 
-https://gyazo.com/f07661e12c607dc3ac332cc3dec0e999
-https://gyazo.com/79dfa0b41a7a3cd2c445e1db66d58a0d
-https://gyazo.com/962f666fbb7f95d8a8e15a51aca8e32d
-https://gyazo.com/b413bd849a2de71cfe87df49b6af9e25
-https://gyazo.com/53fe8d663822bde01229708cb8d8d92f
-https://gyazo.com/78e67464e341fea9cde098e6ae392ce8
-https://gyazo.com/88dc48be8e7bdf711720870efaf6ca9e
-https://gyazo.com/d7e4d2bffaffa9e3ee0335e65587a9a6
-https://gyazo.com/5fa952a82d4fed915938fd3b995ddf32
-https://gyazo.com/1eda5a1b0e5e7cec720b7c22f67cc780
+![image](https://user-images.githubusercontent.com/70596242/139634637-43f28601-39d3-4fb1-97c1-6102ac10273e.png)
+
 
 ## 工夫したポイント
 
